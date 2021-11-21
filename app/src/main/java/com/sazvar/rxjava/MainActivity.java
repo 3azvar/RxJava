@@ -12,5 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //new line2
     }
-    private void b(){}
+    private void c(){}
 }
